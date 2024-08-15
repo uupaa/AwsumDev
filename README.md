@@ -1,2 +1,2 @@
 # AwsumDev
-Awsum R&amp;D
+Awsum R&D
